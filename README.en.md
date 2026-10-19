@@ -76,7 +76,7 @@ Copy the entire `skills/thesis-figure-skill/` directory (including `SKILL.md` an
 
 ### 4 Generation Modes
 
-The skill auto-selects a generation path from your description (defaults to A, no manual selection needed):
+The skill selects a generation path from your description. If you do not explicitly request a mode, it asks whether you prefer A (template reuse) or C (original design) before generating:
 
 | Mode | Example trigger | What it does |
 |------|----------------|--------------|
